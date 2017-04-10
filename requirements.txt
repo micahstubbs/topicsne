@@ -1,6 +1,5 @@
-pystan
-sklearn
-scipy
+scikit-learn
 matplotlib
+scipy
 numpy
-torch
+pystan
